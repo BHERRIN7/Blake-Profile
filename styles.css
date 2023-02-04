@@ -13,7 +13,7 @@ h1 {
   font-size: 6.625rem;
   font-family: 'Sacramento', cursive;
   margin: 50px auto 0 auto;
-  color: #F9F7F7;
+  color: #144272;
   font-weight: bold;
 }
 
@@ -33,7 +33,7 @@ h3 {
 }
 
 a {
-  color: #3F72AF;
+  color: #0A2647;
 font-family: Montserrat; sans-sarif;
 margin: 10px 20px;
 text-decoration: none;
@@ -61,18 +61,18 @@ hr {
 }
 
 .top-container {
-  background-color: #112D4E;
+  background-color: #2C74B3;
   position: relative;
   padding-top: 100px;
 }
 
 .middle-container {
   margin: 100px 0;
-  background-color: #FFFFFF;
+  background-color: White;
 }
 
 .bottom-container {
-  background-color: #112D4E;
+  background-color: #2C74B3;
   padding: 60px 0 20px;
 }
 
@@ -151,4 +151,3 @@ hr {
 }
 
 /**********************************ID SELECTORS*******************************/
-
